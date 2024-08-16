@@ -32,6 +32,30 @@ export const data = [
         opton4: "Speaker",
         ans: 3
     },
+    {
+        question: "In which decade was the American Institute of Electrical Engineers (AIEE) founded?",
+        opton1: "1850s",
+        opton2: "1880s",
+        opton3: "1930s",
+        opton4: "1950s",
+        ans: 2
+    },
+    {
+        question: "What is part of a database that holds only one type of information?",
+        opton1: "Report",
+        opton2: "Field",
+        opton3: "Record",
+        opton4: "File",
+        ans: 2
+    },
+    {
+        question: "'OS' computer abbreviation usually means ?",
+        opton1: "Order of Significance",
+        opton2: "Open Software",
+        opton3: "Operating System",
+        opton4: "On Screen",
+        ans: 3
+    },
 
 
 
